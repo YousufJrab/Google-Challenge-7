@@ -1,3 +1,3 @@
 # Google Coding Challenge
 
-#Bright Network Internship, July 2021
+Bright Network Internship, July 2021
